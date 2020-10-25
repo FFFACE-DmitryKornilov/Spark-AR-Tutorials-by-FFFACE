@@ -1,5 +1,5 @@
 # Spark-AR-Tutorials-by-FFFACE
-Here we store public Spark AR tutorials created by FFFACE.ME team
+Here we store public Spark AR tutorials created by FFFACE.ME team for Spark AR Hackathon by Facebook
 
 Randomizer filters are some of the simplest and most common Instagram effects. At the same time, it can be complicated with additional effects for the face, backgrounds and 3D objects, based on the same mechanics of randomly changing options.
 
